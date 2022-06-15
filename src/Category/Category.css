@@ -1,0 +1,16 @@
+:root {
+    --gray-light: #EEEEEE;
+    --gray-regular: #999999;
+}
+
+
+.categoryContainer{
+    width: 80%;
+    background-color: var(--gray-light);
+    margin-left: 15%;
+}
+
+.categoryContainer h3{
+    font-size: 14px;
+    color: var(--gray-regular);
+}

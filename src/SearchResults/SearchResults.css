@@ -1,0 +1,10 @@
+.ResultsContainer {
+    margin: 0px 100px 0px 100px;
+    background-color: #ffff;
+    height: auto;
+    padding: 16px;
+}
+
+ul {
+    padding: 0;
+}

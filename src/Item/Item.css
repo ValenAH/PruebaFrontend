@@ -1,0 +1,32 @@
+.ItemList {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.ItemList:hover {
+    background-color: rgb(223, 221, 221);
+}
+
+
+.itemImage {
+    width: 180px;
+    height: 180px;
+    padding: 16px;
+    border-radius: 4px;
+}
+
+.price {
+    margin: 0;
+    padding-top: 32px;
+    font-size: 24px;
+    color: #333;
+    font-weight: 600;
+}
+
+.title {
+    margin: 0;
+    padding-top: 32px;
+    font-size: 18px;
+}

@@ -1,0 +1,40 @@
+header{
+    background-color: #ffe600;
+    padding: 10px;
+    text-align: center;
+}
+
+.headerContnainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoML {
+    padding-right: 25px;
+}
+
+.itemSearch {
+    padding-left: 15px;
+    width: 69%;
+    font-size: 18px;
+    border: none;
+    border-radius: 3px;
+    height: 40px;
+}
+
+.iconSearch {
+    position: absolute;
+    top: 19px;
+    margin-left: -3px;
+    background-color: #EEEEEE;
+    padding: 10px;
+    border-radius: 3px;
+    height: 22px;
+}
+
+.iconSearch:hover {
+    cursor: pointer;
+    background-color: #666;
+}
